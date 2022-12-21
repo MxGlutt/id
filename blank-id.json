@@ -4,6 +4,21 @@
             "itemID": 0,
             "name": "Blank",
             "rarity": 1
+        },
+        {
+            "itemID": 1,
+            "name": "Blank Seed",
+            "rarity": 1
+        },
+        {
+            "itemID": 2,
+            "name": "Dirt",
+            "rarity": 1
+        },
+        {
+            "itemID": 3,
+            "name": "Dirt Seed",
+            "rarity": 1
         }
     ]
 }
